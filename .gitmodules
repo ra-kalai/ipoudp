@@ -1,0 +1,12 @@
+[submodule "extra/lua-longhair"]
+	path = extra/lua-longhair
+	url = https://github.com/ra-kalai/lua-longhair
+[submodule "extra/lem"]
+	path = extra/lem
+	url = https://github.com/ra-kalai/lem
+[submodule "extra/ltun"]
+	path = extra/ltun
+	url = https://github.com/ra-kalai/ltun
+[submodule "extra/lua-lz4"]
+	path = extra/lua-lz4
+	url = https://github.com/witchu/lua-lz4
